@@ -164,3 +164,9 @@ cython_debug/
 #.idea/
 
 # End of https://www.toptal.com/developers/gitignore/api/django
+store/migrations/0001_initial.py
+store/migrations/0002_rename_is_avilable_product_is_available.py
+store/migrations/0001_initial.py
+store/migrations/0001_initial.py
+store/migrations/0002_rename_is_avilable_product_is_available.py
+.gitignore
